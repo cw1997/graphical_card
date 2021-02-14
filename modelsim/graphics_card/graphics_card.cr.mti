@@ -1,0 +1,29 @@
+D:/ee/fpga_project/quartus/graphics_card/vga.v {1 {vlog -work work D:/ee/fpga_project/quartus/graphics_card/vga.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module vga
+
+Top level modules:
+	vga
+
+} {} {}} D:/ee/fpga_project/quartus/graphics_card/vga.vt {1 {vlog -work work D:/ee/fpga_project/quartus/graphics_card/vga.vt
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module vga_tb
+
+Top level modules:
+	vga_tb
+
+} {} {}} D:/ee/fpga_project/quartus/graphics_card/uart.vt {1 {vlog -work work D:/ee/fpga_project/quartus/graphics_card/uart.vt
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module uart_tb
+
+Top level modules:
+	uart_tb
+
+} {} {}} D:/ee/fpga_project/quartus/graphics_card/edge_detect.v {1 {vlog -work work D:/ee/fpga_project/quartus/graphics_card/edge_detect.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module edge_detect
+
+Top level modules:
+	edge_detect
+
+} {} {}}

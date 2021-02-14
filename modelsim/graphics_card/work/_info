@@ -1,0 +1,100 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ee\fpga_project\modelsim\hw3
+vedge_detect
+Z1 !s100 cRl<LFSPnoIDc_`Hfng^o1
+Z2 IM_Ugi4MKJKgfI9coTI>j<2
+Z3 VI61PR;HDGYBR1o@LhnT>>2
+Z4 dD:\ee\fpga_project\modelsim\graphics_card
+Z5 w1613011732
+Z6 8D:/ee/fpga_project/quartus/graphics_card/edge_detect.v
+Z7 FD:/ee/fpga_project/quartus/graphics_card/edge_detect.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/ee/fpga_project/quartus/graphics_card/edge_detect.v|
+Z10 o-work work -O0
+Z11 !s108 1613029054.354000
+Z12 !s107 D:/ee/fpga_project/quartus/graphics_card/edge_detect.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vuart
+Z13 !s100 C4f`Fj4jC<ZkkiKec_bS;0
+Z14 Ij=@E[^ci9dAP6UcKQI]R81
+Z15 Von;jf5Qz6dK52_?SiM^Qj1
+R4
+Z16 w1613027681
+Z17 8D:/ee/fpga_project/quartus/graphics_card/uart.v
+Z18 FD:/ee/fpga_project/quartus/graphics_card/uart.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|D:/ee/fpga_project/quartus/graphics_card/uart.v|
+R10
+Z20 !s108 1613029054.091000
+Z21 !s107 D:/ee/fpga_project/quartus/graphics_card/uart.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vuart_tb
+Z22 !s100 DV=e=;kCh9VT1jzz9O0Wz1
+Z23 IKl_kF@JXahRfkOEhinF5H1
+Z24 V05F0Y9@a^]1O;<aJOnU;I1
+R4
+Z25 w1613026995
+Z26 8D:/ee/fpga_project/quartus/graphics_card/uart.vt
+Z27 FD:/ee/fpga_project/quartus/graphics_card/uart.vt
+L0 3
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|D:/ee/fpga_project/quartus/graphics_card/uart.vt|
+R10
+Z29 !s108 1613029053.860000
+Z30 !s107 D:/ee/fpga_project/quartus/graphics_card/uart.vt|
+!i10b 1
+!s85 0
+!s101 -O0
+vvga
+Z31 !s100 JzE[W4`ae>0Bj[dP@XiKD3
+Z32 IObPT2l1:0Q^7LEn5elNfK0
+Z33 VfI@Ri>L4eIGLAdC7hh?nd3
+R4
+Z34 w1613013584
+Z35 8D:/ee/fpga_project/quartus/graphics_card/vga.v
+Z36 FD:/ee/fpga_project/quartus/graphics_card/vga.v
+L0 7
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|D:/ee/fpga_project/quartus/graphics_card/vga.v|
+R10
+!i10b 1
+!s85 0
+Z38 !s108 1613029054.637000
+Z39 !s107 D:/ee/fpga_project/quartus/graphics_card/vga.v|
+!s101 -O0
+vvga_tb
+!i10b 1
+Z40 !s100 ^ZMKbl5Pan]5aeflN^nM=1
+Z41 Ie@@8E?RljmflRX=>_6RMF2
+Z42 VT8B5^eM??7RECL0V3YLE;1
+R4
+Z43 w1612900954
+Z44 8D:/ee/fpga_project/quartus/graphics_card/vga.vt
+Z45 FD:/ee/fpga_project/quartus/graphics_card/vga.vt
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1613029054.894000
+!s107 D:/ee/fpga_project/quartus/graphics_card/vga.vt|
+Z46 !s90 -reportprogress|300|-work|work|D:/ee/fpga_project/quartus/graphics_card/vga.vt|
+!s101 -O0
+R10

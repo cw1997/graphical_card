@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ee\fpga_project\quartus\graphics_card\simulation\qsim
+vgraphics_card
+Z1 IV0i8N6P:3oNVi68WV2RM33
+Z2 Vj]<2[[X<b<DjEYF]MdDfb1
+Z3 dD:\ee\fpga_project\quartus\graphics_card\simulation\qsim
+Z4 w1612867182
+Z5 8graphics_card.vo
+Z6 Fgraphics_card.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|graphics_card.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 Af]0JK55ooZ]i:>H;5aaJ0
+!s85 0
+Z11 !s108 1612867184.959000
+Z12 !s107 graphics_card.vo|
+!s101 -O0
+vgraphics_card_vlg_vec_tst
+!i10b 1
+Z13 !s100 Q]`;5c8CUK9daQ8V=EHl12
+Z14 IfmRCdFXhJ9H5eQAb5H1Fd3
+Z15 V6J2@B0XHGP2UCRPFP1F_A2
+R3
+w1612867181
+Z16 8graphics_card.vt
+Z17 Fgraphics_card.vt
+L0 29
+R7
+r1
+!s85 0
+31
+!s108 1612867185.251000
+!s107 graphics_card.vt|
+Z18 !s90 -work|work|graphics_card.vt|
+!s101 -O0
+R9
